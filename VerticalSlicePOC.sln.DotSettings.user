@@ -1,0 +1,10 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=f4435508_002D005d_002D476b_002D9357_002D0ba13db3efd1/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="All tests from GameServiceTest.cs" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Or&gt;
+    &lt;ProjectFile&gt;F62CEB1A-A80A-4CF6-A2F2-7B521C24F20E/f:GameServiceTest.cs&lt;/ProjectFile&gt;
+    &lt;TestAncestor&gt;
+      &lt;TestId&gt;xUnit::F62CEB1A-A80A-4CF6-A2F2-7B521C24F20E::net6.0::VerticalSlicePOCTests.ConsoleServiceTest.WhenGetAllConsoles_ThenConsolesAreReturnedSuccessfully&lt;/TestId&gt;
+      &lt;TestId&gt;xUnit::F62CEB1A-A80A-4CF6-A2F2-7B521C24F20E::net6.0::VerticalSlicePOCTests.ConsoleServiceTest.WhenGetConsoleById_ThenSpecificConsoleIsReturned&lt;/TestId&gt;
+    &lt;/TestAncestor&gt;
+  &lt;/Or&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VerticalSlicePOC", "VerticalSlicePOC\VerticalSlicePOC.csproj", "{CEAB3D8B-497D-4BE4-9DF3-88DF2719B252}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VerticalSlicePOCTests", "VerticalSlicePOCTests\VerticalSlicePOCTests.csproj", "{F62CEB1A-A80A-4CF6-A2F2-7B521C24F20E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEAB3D8B-497D-4BE4-9DF3-88DF2719B252}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEAB3D8B-497D-4BE4-9DF3-88DF2719B252}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEAB3D8B-497D-4BE4-9DF3-88DF2719B252}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEAB3D8B-497D-4BE4-9DF3-88DF2719B252}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F62CEB1A-A80A-4CF6-A2F2-7B521C24F20E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F62CEB1A-A80A-4CF6-A2F2-7B521C24F20E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F62CEB1A-A80A-4CF6-A2F2-7B521C24F20E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F62CEB1A-A80A-4CF6-A2F2-7B521C24F20E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
