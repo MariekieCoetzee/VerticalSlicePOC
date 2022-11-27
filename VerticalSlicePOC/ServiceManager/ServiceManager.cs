@@ -25,6 +25,9 @@ public class ServiceManager :IServiceManager
         }
     }
 
+    /// <summary>
+    ///   Add update delete games
+    /// </summary>
     public IGameService Game
     {
         get

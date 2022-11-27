@@ -3,8 +3,9 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace VerticalSlicePOC.Features.Consoles;
 
-[Route("api/[controller]")]
 [ApiController]
+[Route("api/[controller]/[action]")]
+[Produces("application/json")]
 public class ConsolesController : ControllerBase
 {
     private readonly IMediator _mediator;
@@ -16,6 +17,10 @@ public class ConsolesController : ControllerBase
         _mediator = mediator;
     }
 
+    /// <summary>
+    /// Returns all the consoles
+    /// </summary>
+    /// <returns>{Cons}</returns>
     [HttpGet]
     public async Task<ActionResult<IEnumerable<GetAllConsoles.ConsoleResult>>> GetConsolesAsync()
     {
