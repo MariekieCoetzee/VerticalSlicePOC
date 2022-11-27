@@ -16,4 +16,4 @@ It is a .net 6 WebApi project.
 ![Diagram](VerticalSliceDiagram.svg)
 
 # Result
-![](../../../../../var/folders/p6/lgf3s7wj09j0t0vw2wjdxbt80000gq/T/TemporaryItems/NSIRD_screencaptureui_RUmI1K/Screenshot 2022-11-25 at 1.55.33 pm.png)
+![Screenshot 2022-11-25 at 2 24 00 pm](https://user-images.githubusercontent.com/20985071/203900916-dc6dff2e-ade2-4d9c-8d5c-a77360bf752d.png)
